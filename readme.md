@@ -2,7 +2,7 @@
 
 ## units tests
 
-- My forst check is for the inherited OpenZeppelin ownable contract
+- My first check is for the inherited OpenZeppelin ownable contract
 - I created const values for the 10 accounts in my Ganache blockchain
 - I check my functions with the 3 espect (normal event revert)
 - the WorkflowStatus had to be changed all along the tests
