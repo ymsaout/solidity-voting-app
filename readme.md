@@ -17,7 +17,7 @@ npm install -g truffle
 npm install
 ```
 
-## deployment
+## run test
 
 ```bash
 truffle test test/voting.test.js --network development
